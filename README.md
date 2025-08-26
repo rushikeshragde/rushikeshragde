@@ -1,5 +1,8 @@
 # 💫 Hi, Rushikesh
-**I'm a passionate full-stack developer who loves building clean, efficient, and user-friendly applications. From front-end to back-end, I enjoy solving problems and continuously learning new technologies to create better software.**
+**👋 Hi, I’m Rushikesh Ragde
+
+💻 Java Full Stack Developer | 🚀 Passionate about building scalable backend systems and fintech solutions
+📍 Based in Pune, India | 🌍 Open to opportunities abroad.**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-ragde-79bbb535a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushikeshragde07@gmail.com ) 
 
