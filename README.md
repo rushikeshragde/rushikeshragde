@@ -1,5 +1,4 @@
-💫 Hi, Rushikesh
-👋 Hi, I’m Rushikesh Ragde
+💫 Hi, I’m Rushikesh Ragde
 
 💻 Java Full Stack Developer | 🚀 Passionate about building scalable backend systems and fintech solutions
 📍 Based in Pune, India | 🌍 Open to opportunities abroad.
